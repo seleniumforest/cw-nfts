@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.32.2",
+    "@cosmjs/launchpad": "^0.27.1",
+    "@cosmjs/stargate": "^0.32.2",
+    "dotenv": "^16.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19"
+  }
+}

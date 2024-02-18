@@ -28,3 +28,7 @@ tarpaulin-report.*
 
 # raw json schema files
 **/raw/*.json
+
+seid    
+examples/.env
+node_modules/
